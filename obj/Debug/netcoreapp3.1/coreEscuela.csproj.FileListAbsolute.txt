@@ -1,0 +1,11 @@
+/home/nosferatus/Documentos/code/PLATZI/coreEscuela/bin/Debug/netcoreapp3.1/coreEscuela
+/home/nosferatus/Documentos/code/PLATZI/coreEscuela/bin/Debug/netcoreapp3.1/coreEscuela.deps.json
+/home/nosferatus/Documentos/code/PLATZI/coreEscuela/bin/Debug/netcoreapp3.1/coreEscuela.runtimeconfig.json
+/home/nosferatus/Documentos/code/PLATZI/coreEscuela/bin/Debug/netcoreapp3.1/coreEscuela.runtimeconfig.dev.json
+/home/nosferatus/Documentos/code/PLATZI/coreEscuela/bin/Debug/netcoreapp3.1/coreEscuela.dll
+/home/nosferatus/Documentos/code/PLATZI/coreEscuela/bin/Debug/netcoreapp3.1/coreEscuela.pdb
+/home/nosferatus/Documentos/code/PLATZI/coreEscuela/obj/Debug/netcoreapp3.1/coreEscuela.csprojAssemblyReference.cache
+/home/nosferatus/Documentos/code/PLATZI/coreEscuela/obj/Debug/netcoreapp3.1/coreEscuela.AssemblyInfoInputs.cache
+/home/nosferatus/Documentos/code/PLATZI/coreEscuela/obj/Debug/netcoreapp3.1/coreEscuela.AssemblyInfo.cs
+/home/nosferatus/Documentos/code/PLATZI/coreEscuela/obj/Debug/netcoreapp3.1/coreEscuela.dll
+/home/nosferatus/Documentos/code/PLATZI/coreEscuela/obj/Debug/netcoreapp3.1/coreEscuela.pdb
